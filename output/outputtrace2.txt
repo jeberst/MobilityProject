@@ -1,0 +1,2 @@
+models=Random WayPoint	locationinitializer=fixed initializer	variablenumber=true	y=200.0	x=200.0	maxpausetime=10	minspeed=5	maps=squarereflect	height=500	width=500	maxspeed=10	rangealgorithms=NullPowerAlgorithm	filenamegenerator=simple	seed=outputtrace	numberiterate=true	defaultfilter=edu.sharif.ce.dml.common.data.trace.filter.DirectoryFilter	isinput=false	fileaddress=output	multiple=false	tracewriter=text	nodenumber=10	maxsimulationtime=1000
+Time	Node	PositionX	PositionY	Speed	Direction Angle	Range
